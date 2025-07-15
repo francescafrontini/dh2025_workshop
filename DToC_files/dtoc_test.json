@@ -1,0 +1,32 @@
+{
+    "editionTitle": "Inferno",
+    "editionSubtitle": "DH2025",
+    "ignoreNamespace": true,
+    "documents": "//div[@type='canto']",
+    "documentContent": "",
+    "documentTitle": "",
+    "documentAuthor": "",
+    "indexDocument": "",
+    "documentImages": "",
+    "documentNotes": "",
+    "documentLinks": "",
+    "inputs": [
+        "https://raw.githubusercontent.com/francescafrontini/dh2025_workshop/refs/heads/main/inferno_files/Inferno_english.xml"
+    ],
+    "curation": {
+        "markup": [
+            {
+                "xpath": "//div",
+                "label": "div"
+            },
+            {
+                "xpath": "//persName",
+                "label": "Person",
+                "usage": null
+            }
+        ],
+        "toc": [
+            "6bc461ddc5b8a06b47c796070f0e995e732052c4b9073a81e00236005d11e84a"
+        ]
+    }
+}
