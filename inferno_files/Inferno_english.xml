@@ -55,7 +55,7 @@
 	"id": "https://raw.githubusercontent.com/francescafrontini/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715152300593",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-07-15T13:23:00.593Z",
-	"dcterms:modified": "2025-07-15T13:23:00.593Z",
+	"dcterms:modified": "2025-07-15T13:32:15.433Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/francescafrontini",
 		"@type": [
@@ -392,7 +392,7 @@
 
             <lg n="5" xml:id="lg005">
                <l n="13">“Let us descend now into the blind world,”</l>
-               <l n="14">Began <persName key="Virgil." ref="http://viaf.org/viaf/8194433" cert="high" role="rcp" type="identifiable" xml:id="123">the Poet</persName>, pallid utterly;</l>
+               <l n="14">Began <persName key="Virgil." ref="http://viaf.org/viaf/8194433" cert="high" role="rcp" type="identifiable" xml:id="poet123">the Poet</persName>, pallid utterly;</l>
                <l n="15">“I will be first, and thou shalt second be.”</l>
             </lg>
 
