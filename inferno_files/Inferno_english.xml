@@ -55,7 +55,7 @@
 	"id": "https://raw.githubusercontent.com/francescafrontini/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715152300593",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-07-15T13:23:00.593Z",
-	"dcterms:modified": "2025-07-15T13:32:15.433Z",
+	"dcterms:modified": "2025-07-15T13:33:27.069Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/francescafrontini",
 		"@type": [
